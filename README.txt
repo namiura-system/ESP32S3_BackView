@@ -8,6 +8,9 @@ mirrored left-to-right, the same as a rear-view mirror.
 
 (Japanese version: README_ja.txt)
 
+■ note.com
+------------
+https://note.com/hiraide62/n/n8950254cad24?hl=en
 
 ■ Features
 ------------
